@@ -1,0 +1,252 @@
+# depslib dependency file v1.0
+1556607703 source:c:\users\jorge marroquin\desktop\pr\main.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	"personaje.hh"
+	"mapa.hh"
+	"funciones.hh"
+	"caja.hh"
+	"mover.hh"
+
+1556603838 c:\users\jorge marroquin\desktop\pr\personaje.hh
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	"mapa.hh"
+	"funciones.hh"
+
+1556607604 c:\users\jorge marroquin\desktop\pr\mapa.hh
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	"personaje.hh"
+	"mapa.hh"
+	"funciones.hh"
+
+1556569039 c:\users\jorge marroquin\desktop\pr\funciones.cc
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+
+1556572606 c:\users\jorge marroquin\desktop\pr\funciones.hh
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+
+1556595857 c:\users\jorge marroquin\desktop\pr\caja.hh
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	"mapa.hh"
+	"funciones.hh"
+
+1556589801 c:\users\jorge marroquin\desktop\pr\mover.hh
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	"personaje.hh"
+	"mapa.hh"
+	"funciones.hh"
+	"caja.hh"
+
+1556693810 source:c:\users\jorge marroquin\desktop\pro\main.cpp
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	<WinUser.h>
+	"personaje.hh"
+	"mapa.hh"
+	"funciones.hh"
+	"caja.hh"
+	"mover.hh"
+	"opciones.hh"
+	"menu.hh"
+
+1556694069 c:\users\jorge marroquin\desktop\pro\personaje.hh
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	"mapa.hh"
+	"funciones.hh"
+
+1556690742 c:\users\jorge marroquin\desktop\pro\mapa.hh
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	"personaje.hh"
+	"mapa.hh"
+	"funciones.hh"
+
+1556689521 c:\users\jorge marroquin\desktop\pro\funciones.hh
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+
+1556691373 c:\users\jorge marroquin\desktop\pro\caja.hh
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	"mapa.hh"
+	"funciones.hh"
+
+1556692663 c:\users\jorge marroquin\desktop\pro\mover.hh
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	"personaje.hh"
+	"mapa.hh"
+	"funciones.hh"
+	"caja.hh"
+
+1556692019 c:\users\jorge marroquin\desktop\pro\opciones.hh
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	<WinUser.h>
+	"personaje.hh"
+	"mapa.hh"
+	"funciones.hh"
+	"caja.hh"
+	"mover.hh"
+	"menu.hh"
+	"caja.hh"
+
+1556689521 c:\users\jorge marroquin\desktop\pro\menu.hh
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	<WinUser.h>
+	"personaje.hh"
+	"mapa.hh"
+	"funciones.hh"
+	"caja.hh"
+	"mover.hh"
+	"opciones.hh"
+
+1556693810 source:c:\users\jorge marroquin\desktop\repositorio-jorge-marroquin-y-juan-caceres\proyecto\main.cpp
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	<WinUser.h>
+	"personaje.hh"
+	"mapa.hh"
+	"funciones.hh"
+	"caja.hh"
+	"mover.hh"
+	"opciones.hh"
+	"menu.hh"
+
+1556694069 c:\users\jorge marroquin\desktop\repositorio-jorge-marroquin-y-juan-caceres\proyecto\personaje.hh
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	"mapa.hh"
+	"funciones.hh"
+
+1556690742 c:\users\jorge marroquin\desktop\repositorio-jorge-marroquin-y-juan-caceres\proyecto\mapa.hh
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	"personaje.hh"
+	"mapa.hh"
+	"funciones.hh"
+
+1556689521 c:\users\jorge marroquin\desktop\repositorio-jorge-marroquin-y-juan-caceres\proyecto\funciones.hh
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+
+1556691373 c:\users\jorge marroquin\desktop\repositorio-jorge-marroquin-y-juan-caceres\proyecto\caja.hh
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	"mapa.hh"
+	"funciones.hh"
+
+1556692663 c:\users\jorge marroquin\desktop\repositorio-jorge-marroquin-y-juan-caceres\proyecto\mover.hh
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	"personaje.hh"
+	"mapa.hh"
+	"funciones.hh"
+	"caja.hh"
+
+1556692019 c:\users\jorge marroquin\desktop\repositorio-jorge-marroquin-y-juan-caceres\proyecto\opciones.hh
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	<WinUser.h>
+	"personaje.hh"
+	"mapa.hh"
+	"funciones.hh"
+	"caja.hh"
+	"mover.hh"
+	"menu.hh"
+	"caja.hh"
+
+1556689521 c:\users\jorge marroquin\desktop\repositorio-jorge-marroquin-y-juan-caceres\proyecto\menu.hh
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	<WinUser.h>
+	"personaje.hh"
+	"mapa.hh"
+	"funciones.hh"
+	"caja.hh"
+	"mover.hh"
+	"opciones.hh"
+
